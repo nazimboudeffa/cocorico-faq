@@ -376,3 +376,7 @@ do
  NOW I get ERROR 404
  
  ![OjVPhiQIZl](OjVPhiQIZl.png)
+
+don't miss to
+
+`sudo cp .htaccess.prod.dist .htaccess`
