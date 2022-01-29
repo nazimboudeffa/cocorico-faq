@@ -394,3 +394,7 @@ IT WORKED !
 
 super-admin@cocorico.rocks
 super-admin
+
+If you have that SQL error disable ONLY_FULL_GROUP_BY
+
+![I5PD10dYUH](I5PD10dYUH.png)
