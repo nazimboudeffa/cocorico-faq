@@ -121,6 +121,33 @@ Now the first problem has gone
     - sensio/generator-bundle is locked to version v3.1.7 and an update of this package was not requested.
 ```
 
+Installation process starts
+
+```
+ubuntu@vps-xyz:/home/xyz/github/cocolabs-sas/cocorico/v0151/cocorico-0.15.1$ sudo composer install
+Do not run Composer as root/super user! See https://getcomposer.org/root for details
+You are using Composer 1 which is deprecated. You should upgrade to Composer 2, see https://blog.packagist.com/deprecating-composer-1-support/
+Loading composer repositories with package information
+Installing dependencies (including require-dev) from lock file
+Warning: The lock file is not up to date with the latest changes in composer.json. You may be getting outdated dependencies. It is recommended that you run `composer update` or `composer update <package name>`.
+Package operations: 168 installs, 0 updates, 0 removals
+  - Installing ocramius/package-versions (1.2.0): Downloading (100%)
+  - Installing wikimedia/composer-merge-plugin (v1.4.1): Downloading (100%)
+  - Installing symfony/polyfill-mbstring (v1.6.0): Downloading (100%)
+  - Installing symfony/polyfill-ctype (v1.11.0): Downloading (100%)
+  - Installing twig/twig (v2.12.3): Downloading (100%)
+  - Installing paragonie/random_compat (v2.0.11): Downloading (100%)
+  - Installing symfony/polyfill-php70 (v1.6.0): Downloading (100%)
+  - Installing symfony/polyfill-util (v1.6.0): Downloading (100%)
+  - Installing symfony/polyfill-php56 (v1.6.0): Downloading (100%)
+  - Installing symfony/symfony (v3.4.36): Downloading (100%)
+  - Installing kriswallsmith/assetic (v1.4.0): Downloading (100%)
+  - Installing robloach/component-installer (0.2.3): Downloading (100%)
+  - Installing symfony/polyfill-intl-icu (v1.6.0): Downloading (100%)
+  - Installing symfony/polyfill-apcu (v1.6.0): Downloading (100%)
+  - Installing psr/simple-cache (1.0.0): Downloading (100%)
+  - Installing psr/log (1.0.2): Downloading (100%)
+```
 
 Aftyer everything is installed 
 
