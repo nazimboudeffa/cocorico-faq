@@ -227,8 +227,6 @@ then you'll have this error that is due to the user and password of the MySQL da
 
 After you understand some stuff
 
-![zdzQhM0HTA](zdzQhM0HTA.png)
-
 ```
 database_host (127.0.0.1):
 database_port (null): 3306
@@ -271,5 +269,9 @@ cocorico.booking.validated_moment (start):
 cocorico.booking.validated_delay (0):
 cocorico.bankwire_checking_simulation (false):
 ```
+![zdzQhM0HTA](zdzQhM0HTA.png)
+
+Create the Database !
+
 
 ![Z6IVgiimJn](Z6IVgiimJn.png)
