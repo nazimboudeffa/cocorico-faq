@@ -355,3 +355,7 @@ ALTER USER 'youruser'@'localhost' IDENTIFIED WITH mysql_native_password
 BY 'yourpassword';  
 ```
 
+NICE
+
+![0Z6hHj9OXE](0Z6hHj9OXE.png)
+
