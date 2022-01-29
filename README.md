@@ -120,3 +120,49 @@ Now the first problem has gone
     - sensio/generator-bundle v3.1.7 requires symfony/console ~2.7|~3.0 -> satisfiable by symfony/symfony[v3.4.36].
     - sensio/generator-bundle is locked to version v3.1.7 and an update of this package was not requested.
 ```
+
+
+Aftyer everything is installed 
+
+```
+database_host (127.0.0.1):
+database_port (null):
+database_name (cocorico_dev):
+database_user (cocorico_dev):
+database_password (cocorico_dev): ProvideAPassWord
+mongodb_server ('mongodb://localhost:27017'):
+mongodb_database_name (cocorico_dev):
+mailer_transport (smtp):
+mailer_host (127.0.0.1):
+mailer_user (null):
+mailer_password (null):
+mailer_port (null):
+secret (ThisTokenIsNotSoSecretChangeIt):NEWTOKEN
+use_assetic_controller (false):
+cocorico.assets_base_urls ('https://cocorico.dev'): https://my.chaudoudoux.app
+router.request_context.host (cocorico.dev): chaudoudoux.app
+router.request_context.scheme (https):
+router.request_context.base_url (''):
+cocorico.admin (admin):
+cocorico.admin_translation (false):
+cocorico.check_translation (false):
+cocorico.translator.secret.key (null):
+cocorico.facebook.app_id (null):
+cocorico.facebook.secret (null):
+cocorico.image_driver (imagick):
+cocorico.google_analytics (UA-64445856-1):
+cocorico.google_tag_manager (false):
+cocorico_geo.google_place_api_key (null):
+cocorico_geo.google_place_server_api_key (null):
+cocorico_geo.ipinfodb_api_key (null):
+cocorico.deploy.host (fake.cocorico.prod): my.chaudoudoux.app
+cocorico.deploy.dir (/fake/path): /home/xyz/github/cocolabs-sas/cocorico/v0151/cocorico-0.15.1
+cocorico.deploy.user (fakeuser):
+cocorico.booking.expiration_delay (2880):
+cocorico.booking.acceptation_delay (240):
+cocorico.booking.alert_expiration_delay (120):
+cocorico.booking.alert_imminent_delay (1440):
+cocorico.booking.validated_moment (start):
+cocorico.booking.validated_delay (0):
+cocorico.bankwire_checking_simulation (false):
+```
