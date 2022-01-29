@@ -326,3 +326,14 @@ So I get this error
 ![2cOwkH5E49](2cOwkH5E49.png)
 
 issue https://github.com/Cocolabs-SAS/cocorico/issues/477
+
+How to change PHP version https://www.rosehosting.com/blog/how-to-install-php-7-2-on-ubuntu-16-04/
+
+`sudo add-apt-repository -y ppa:ondrej/php`
+`sudo apt-get update`
+
+then
+
+`sudo apt-get install php7.2`
+
+
