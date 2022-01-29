@@ -272,3 +272,4 @@ cocorico.booking.validated_delay (0):
 cocorico.bankwire_checking_simulation (false):
 ```
 
+![Z6IVgiimJn](Z6IVgiimJn.png)
