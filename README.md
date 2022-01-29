@@ -359,3 +359,6 @@ NICE
 
 ![0Z6hHj9OXE](0Z6hHj9OXE.png)
 
+Once you've done that configure your siteavailable .conf
+
+change the owner of the folder installation to www-data:www-data
