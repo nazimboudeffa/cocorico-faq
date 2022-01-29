@@ -344,3 +344,7 @@ or
 
 `sudo update-alternatives --config php` and choose 7.2
 
+if you face the same errors as before
+
+`sudo apt-get install php7.2-mongodb`
+
