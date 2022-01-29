@@ -381,4 +381,4 @@ don't miss to
 
 `sudo cp .htaccess.dist .htaccess`
 
-
+![vxUFpElhBm](vxUFpElhBm.png)
