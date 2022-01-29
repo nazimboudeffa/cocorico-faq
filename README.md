@@ -219,4 +219,7 @@ Then I get this error
 
 ![am3S9NizXX](am3S9NizXX.png)
 
+do `sudo apt install php-mysql`
+
+then you'll have this error that is due to the user and password of the MySQL database
 
