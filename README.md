@@ -387,3 +387,7 @@ Again I've made
 `sudo chown -R www-data:www-data cocorico-0.15.1/`
 
 ![fbnu2lX8qf](fbnu2lX8qf.png)
+
+IT WORKED !
+
+![9rwvxzWXqJ](9rwvxzWXqJ.png)
