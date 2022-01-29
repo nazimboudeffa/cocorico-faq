@@ -336,4 +336,7 @@ then
 
 `sudo apt-get install php7.2`
 
+`sudo a2dismod php7.4`
+
+`sudo a2denmod php7.2`
 
