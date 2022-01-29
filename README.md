@@ -324,3 +324,5 @@ cocorico.bankwire_checking_simulation (false):
 So I get this error
 
 ![2cOwkH5E49](2cOwkH5E49.png)
+
+issue https://github.com/Cocolabs-SAS/cocorico/issues/477
