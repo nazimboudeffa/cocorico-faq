@@ -348,3 +348,10 @@ if you face the same errors as before
 
 `sudo apt-get install php7.2-mongodb`
 
+If you have a problem with MySQL
+
+```
+ALTER USER 'youruser'@'localhost' IDENTIFIED WITH mysql_native_password
+BY 'yourpassword';  
+```
+
