@@ -223,3 +223,5 @@ do `sudo apt install php-mysql`
 
 then you'll have this error that is due to the user and password of the MySQL database
 
+![qcfOedAPG1](qcfOedAPG1.png)
+
