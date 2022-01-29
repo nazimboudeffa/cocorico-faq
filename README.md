@@ -215,6 +215,8 @@ cocorico.booking.validated_moment (start):
 cocorico.booking.validated_delay (0):
 cocorico.bankwire_checking_simulation (false):
 ```
+Then I get this error
+
 ![am3S9NizXX](am3S9NizXX.png)
 
 
