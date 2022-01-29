@@ -121,6 +121,28 @@ Now the first problem has gone
     - sensio/generator-bundle is locked to version v3.1.7 and an update of this package was not requested.
 ```
 
+Other errors
+
+If you have an error like `requires composer-plugin-api ^1.0` you need to downgrade by doing
+
+`sudo composer self-update --1`
+
+Problem 1 fixed by doing
+
+`sudo apt-get install php-mongodb`
+
+Problem 2 fixed by doing
+
+`sudo apt-get install php-mbstring`
+
+Problem 3 fixed by doing
+
+`sudo apt-get install php-zip`
+
+Problem 5 fixed by doing 
+
+`sudo apt-get install php-xml`
+
 Installation process starts
 
 ```
