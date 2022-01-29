@@ -79,3 +79,44 @@ Your requirements could not be resolved to an installable set of packages.
 I just had to do
 
 `sudo apt-get install php-mongodb`
+
+Now the first problem has gone
+
+```
+  Problem 1
+    - cocur/slugify is locked to version v3.0.1 and an update of this package was not requested.
+    - cocur/slugify v3.0.1 requires ext-mbstring * -> it is missing from your system. Install or enable PHP's mbstring extension.
+  Problem 2
+    - friendsofsymfony/ckeditor-bundle is locked to version 2.1.0 and an update of this package was not requested.
+    - friendsofsymfony/ckeditor-bundle 2.1.0 requires ext-zip * -> it is missing from your system. Install or enable PHP's zip extension.
+  Problem 3
+    - ocramius/package-versions is locked to version 1.2.0 and an update of this package was not requested.
+    - ocramius/package-versions 1.2.0 requires composer-plugin-api ^1.0 -> found composer-plugin-api[2.2.0] but it does not match the constraint.
+  Problem 4
+    - robloach/component-installer is locked to version 0.2.3 and an update of this package was not requested.
+    - robloach/component-installer 0.2.3 requires composer-plugin-api ^1.0 -> found composer-plugin-api[2.2.0] but it does not match the constraint.
+  Problem 5
+    - symfony/symfony is locked to version v3.4.36 and an update of this package was not requested.
+    - symfony/symfony v3.4.36 requires ext-xml * -> it is missing from your system. Install or enable PHP's xml extension.
+  Problem 6
+    - behat/behat is locked to version v3.4.3 and an update of this package was not requested.
+    - behat/behat v3.4.3 requires ext-mbstring * -> it is missing from your system. Install or enable PHP's mbstring extension.
+  Problem 7
+    - phar-io/manifest is locked to version 1.0.1 and an update of this package was not requested.
+    - phar-io/manifest 1.0.1 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 8
+    - phpunit/php-code-coverage is locked to version 5.3.0 and an update of this package was not requested.
+    - phpunit/php-code-coverage 5.3.0 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 9
+    - phpunit/phpunit is locked to version 6.5.4 and an update of this package was not requested.
+    - phpunit/phpunit 6.5.4 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.  Problem 10
+    - theseer/tokenizer is locked to version 1.1.0 and an update of this package was not requested.
+    - theseer/tokenizer 1.1.0 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 11
+    - wikimedia/composer-merge-plugin is locked to version v1.4.1 and an update of this package was not requested.
+    - wikimedia/composer-merge-plugin v1.4.1 requires composer-plugin-api ^1.0 -> found composer-plugin-api[2.2.0] but it does not match the constraint.
+  Problem 12
+    - symfony/symfony v3.4.36 requires ext-xml * -> it is missing from your system. Install or enable PHP's xml extension.
+    - sensio/generator-bundle v3.1.7 requires symfony/console ~2.7|~3.0 -> satisfiable by symfony/symfony[v3.4.36].
+    - sensio/generator-bundle is locked to version v3.1.7 and an update of this package was not requested.
+```
