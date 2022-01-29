@@ -362,3 +362,8 @@ NICE
 Once you've done that configure your siteavailable .conf
 
 change the owner of the folder installation to www-data:www-data
+
+I get thie errors in apache error log
+
+PHP Fatal error:  Uncaught Symfony\\Component\\Debug\\Exception\\UndefinedFunctionException: Attempted to call function "apc_fetch" from namespace "Doctrine\\Common\\Cache". 
+
