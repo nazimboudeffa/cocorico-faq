@@ -367,5 +367,7 @@ I get thie errors in apache error log
 
 PHP Fatal error:  Uncaught Symfony\\Component\\Debug\\Exception\\UndefinedFunctionException: Attempted to call function "apc_fetch" from namespace "Doctrine\\Common\\Cache". 
 
-do `sudo apt-get install php7.2-apcu`
+do 
 
+`sudo apt-get install php7.2-apcu`
+`sudo apt-get install php7.2-apcu-bc`
