@@ -215,3 +215,6 @@ cocorico.booking.validated_moment (start):
 cocorico.booking.validated_delay (0):
 cocorico.bankwire_checking_simulation (false):
 ```
+![am3S9NizXX](https://user-images.githubusercontent.com/1375686/151662027-67603632-4ade-4fca-9458-2b0e6da89996.png)
+
+
