@@ -379,4 +379,6 @@ do
 
 don't miss to
 
-`sudo cp .htaccess.prod.dist .htaccess`
+`sudo cp .htaccess.dist .htaccess`
+
+
