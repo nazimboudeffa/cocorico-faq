@@ -382,3 +382,6 @@ don't miss to
 `sudo cp .htaccess.dist .htaccess`
 
 ![vxUFpElhBm](vxUFpElhBm.png)
+
+Again I've made
+`sudo chown -R www-data:www-data cocorico-0.15.1/`
