@@ -227,6 +227,8 @@ then you'll have this error that is due to the user and password of the MySQL da
 
 After you understand some stuff
 
+![zdzQhM0HTA](zdzQhM0HTA.png)
+
 ```
 database_host (127.0.0.1):
 database_port (null): 3306
@@ -240,7 +242,7 @@ mailer_host (127.0.0.1):
 mailer_user (null):
 mailer_password (null):
 mailer_port (null):
-secret (ThisTokenIsNotSoSecretChangeIt):
+secret (ThisTokenIsNotSoSecretChangeIt):changeit
 use_assetic_controller (false):
 cocorico.assets_base_urls ('https://cocorico.dev'): https://my.chaudoudoux.app
 router.request_context.host (cocorico.dev): my.chaudoudoux.app
