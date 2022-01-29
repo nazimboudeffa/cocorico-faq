@@ -340,3 +340,7 @@ then
 
 `sudo a2denmod php7.2`
 
+or
+
+`sudo update-alternatives --config php` and choose 7.2
+
