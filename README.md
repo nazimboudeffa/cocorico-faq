@@ -372,3 +372,7 @@ do
 `sudo apt-get install php7.2-apcu`
 `sudo apt-get install php7.2-apcu-bc`
  also tryed this https://github.com/Cocolabs-SAS/cocorico/issues/208
+ 
+ NOW I get ERROR 404
+ 
+ ![OjVPhiQIZl](OjVPhiQIZl.png)
