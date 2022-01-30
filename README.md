@@ -398,3 +398,21 @@ super-admin
 If you have that SQL error disable ONLY_FULL_GROUP_BY
 
 ![I5PD10dYUH](I5PD10dYUH.png)
+
+NOW we have to dump the assets
+
+https://github.com/Cocolabs-SAS/cocorico/blob/master/doc/installation-application.md#dump-assets
+
+![8xbP7eQMIi](8xbP7eQMIi.png)
+
+just by doing 
+
+```
+php bin/console assets:install --symlink web --env=dev
+php bin/console assetic:dump --env=dev
+```
+
+congratulations
+
+
+
