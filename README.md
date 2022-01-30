@@ -217,13 +217,13 @@ cocorico.bankwire_checking_simulation (false):
 ```
 Then I get this error
 
-![am3S9NizXX](am3S9NizXX.png)
+![am3S9NizXX](images/am3S9NizXX.png)
 
 do `sudo apt install php-mysql`
 
 then you'll have this error that is due to the user and password of the MySQL database
 
-![qcfOedAPG1](qcfOedAPG1.png)
+![qcfOedAPG1](images/qcfOedAPG1.png)
 
 After you understand some stuff
 
@@ -269,12 +269,12 @@ cocorico.booking.validated_moment (start):
 cocorico.booking.validated_delay (0):
 cocorico.bankwire_checking_simulation (false):
 ```
-![zdzQhM0HTA](zdzQhM0HTA.png)
+![zdzQhM0HTA](images/zdzQhM0HTA.png)
 
 Create the Database !
 
 
-![Z6IVgiimJn](Z6IVgiimJn.png)
+![Z6IVgiimJn](images/Z6IVgiimJn.png)
 
 so I've just added `123`
 
@@ -323,7 +323,7 @@ cocorico.bankwire_checking_simulation (false):
 
 So I get this error
 
-![2cOwkH5E49](2cOwkH5E49.png)
+![2cOwkH5E49](images/2cOwkH5E49.png)
 
 issue https://github.com/Cocolabs-SAS/cocorico/issues/477
 
@@ -357,7 +357,7 @@ BY 'yourpassword';
 
 NICE
 
-![0Z6hHj9OXE](0Z6hHj9OXE.png)
+![0Z6hHj9OXE](images/0Z6hHj9OXE.png)
 
 Once you've done that configure your siteavailable .conf
 
@@ -375,35 +375,35 @@ do
  
  NOW I get ERROR 404
  
- ![OjVPhiQIZl](OjVPhiQIZl.png)
+ ![OjVPhiQIZl](images/OjVPhiQIZl.png)
 
 don't miss to
 
 `sudo cp .htaccess.dist .htaccess`
 
-![vxUFpElhBm](vxUFpElhBm.png)
+![vxUFpElhBm](images/vxUFpElhBm.png)
 
 Again I've made
 `sudo chown -R www-data:www-data cocorico-0.15.1/`
 
-![fbnu2lX8qf](fbnu2lX8qf.png)
+![fbnu2lX8qf](images/fbnu2lX8qf.png)
 
 IT WORKED !
 
-![9rwvxzWXqJ](9rwvxzWXqJ.png)
+![9rwvxzWXqJ](images/9rwvxzWXqJ.png)
 
 super-admin@cocorico.rocks
 super-admin
 
 If you have that SQL error disable ONLY_FULL_GROUP_BY
 
-![I5PD10dYUH](I5PD10dYUH.png)
+![I5PD10dYUH](images/I5PD10dYUH.png)
 
 NOW we have to dump the assets
 
 https://github.com/Cocolabs-SAS/cocorico/blob/master/doc/installation-application.md#dump-assets
 
-![8xbP7eQMIi](8xbP7eQMIi.png)
+![8xbP7eQMIi](images/8xbP7eQMIi.png)
 
 just by doing 
 
@@ -414,5 +414,5 @@ php bin/console assetic:dump --env=dev
 
 congratulations
 
-![rHWC5dVhPW](rHWC5dVhPW.png)
+![rHWC5dVhPW](images/rHWC5dVhPW.png)
 
