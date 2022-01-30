@@ -414,5 +414,5 @@ php bin/console assetic:dump --env=dev
 
 congratulations
 
-
+![rHWC5dVhPW](rHWC5dVhPW.png)
 
